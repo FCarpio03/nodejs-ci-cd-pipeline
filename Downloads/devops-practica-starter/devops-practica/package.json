@@ -1,0 +1,20 @@
+{
+  "name": "devops-hola-mundo",
+  "version": "1.0.0",
+  "description": "Hola Mundo Express con CI/CD, Docker y Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}
